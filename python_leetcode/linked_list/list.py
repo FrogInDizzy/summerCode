@@ -31,5 +31,4 @@ class Solution:
             p.next = p2
 
         return dummy.next
-# 详细解析参见：
-# https://labuladong.online/algo/slug.html?slug=merge-two-sorted-lists
+
